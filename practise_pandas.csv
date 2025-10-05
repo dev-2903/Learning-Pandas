@@ -1,0 +1,11 @@
+OrderID,Product,Category,Price,Quantity,Customer,OrderDate
+1001,Laptop,Electronics,999.99,1,Alice Smith,2025-09-01
+1002,Headphones,Electronics,49.99,2,Bob Johnson,2025-09-02
+1003,Desk Chair,Furniture,129.99,1,Carol Williams,2025-09-03
+1004,Smartphone,Electronics,699.99,1,David Brown,2025-09-04
+1005,Notebook,Stationery,5.99,10,Emma Davis,2025-09-05
+1006,Monitor,Electronics,249.99,2,Frank Wilson,2025-09-06
+1007,Table Lamp,Furniture,39.99,3,Grace Lee,2025-09-07
+1008,Mouse,Electronics,19.99,5,Harry Moore,2025-09-08
+1009,Pen Set,Stationery,12.99,4,Isabella Taylor,2025-09-09
+1010,Bookshelf,Furniture,89.99,1,James Anderson,2025-09-10
