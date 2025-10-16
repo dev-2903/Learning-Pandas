@@ -1,4 +1,4 @@
-Name,Age,City
-Alice,22,NY
-Bobby,27,Munich
-Charles,21,Boston
+Name,Age,City,IsAdult
+Alice,22,NY,True
+Bobby,27,Munich,True
+Charles,21,Boston,True
